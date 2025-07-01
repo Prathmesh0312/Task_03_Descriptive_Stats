@@ -1,6 +1,6 @@
 # Task_03_Descriptive_Stats
 
-This repository contains my submission for Research Task 03 under the Syracuse University OPT research program. The objective was to perform descriptive statistical analysis on three datasets related to the 2024 U.S. presidential election, using three different Python strategies:
+This repository contains my submission for Research Task 03 under the research program. The objective was to perform descriptive statistical analysis on three datasets related to the 2024 U.S. presidential election, using three different Python strategies:
 The final code file (.py format) is inside data folder inside this repo.
 
 - Pure Python (no third-party libraries)
