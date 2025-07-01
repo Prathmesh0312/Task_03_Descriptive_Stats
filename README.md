@@ -13,3 +13,5 @@ The final code file (.py format) is inside data folder inside this repo.
 - I find Pandas more easier and more performant because of the intuitive format and built in suggestion function like .describe(), .value_count().
 - ChatGPT provided a solid starting point for polars strategy as I have not used it since a long time, but using chatgpt sped up the development process.
 - ChatGPT and Claude are using Pandas when asked for descriptive statistics. Furhther, I agree with these recommendations as I have done most opf my academics and project work on Pandas in Python.
+
+- For Pandas Section, as I did code inside local VS Code, the displayed output was not readable inside the integrated terminal. So, I have saved the output for Pandas into CSV files. Further to save time, if you are using VS Code or similar, just install the Data Wrangler extension into the program.
